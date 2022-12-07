@@ -11393,6 +11393,11 @@ hr.divider-heavy {
   }
 }
 
+.space {
+  height: 10vh;
+  background-color: rgba(31, 33, 36, 1);
+}
+
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);

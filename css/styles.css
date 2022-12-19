@@ -604,6 +604,11 @@ progress {
   height: auto;
 }
 
+.img-50 {
+  max-width: 50%;
+  height: auto;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
@@ -11435,6 +11440,10 @@ header.masthead h1, header.masthead .h1 {
 }
 
 .explanation {
+  background-color: rgba(31, 33, 36, 1);
+}
+
+.beat {
   background: linear-gradient(rgba(31, 33, 36, 1), rgba(52, 71, 85, 1));
 }
 
